@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPrework\09-loops\bin\Debug\09-loops.exe.config
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPrework\09-loops\bin\Debug\09-loops.exe
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPrework\09-loops\bin\Debug\09-loops.pdb
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPrework\09-loops\obj\Debug\09-loops.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPrework\09-loops\obj\Debug\09-loops.exe
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPrework\09-loops\obj\Debug\09-loops.pdb
